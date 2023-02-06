@@ -9,7 +9,7 @@ This challenge requires us to find out how to balance long distances and chargin
 And the generated path has to be valid between each charging station.  
 I organize it into two separate problems.    
 
-[1. How to optimally distribute the charging time at each station?]  
+[**1. How to optimally distribute the charging time at each station?**]  
 My initial thought was to charge to full at every station to guarantee valid path.    
 And reduce the overcharge value after a path is found. After implemented the first version,  
 I figured out that the charging problem is actually a linear programming problem.    
@@ -22,7 +22,7 @@ get to the next station. By constructing the constraints, we can observed that t
 is only affected by the previous charging value. We can therefore find the solution of the linear programming problem     
 by setting the charging value at the boundary of maximum charging or minimum charging depending on the charging rate.  
 
-[2. How to find the shortest path with reasonable charging time?]
+[**2. How to find the shortest path with reasonable charging time?**]  
 For this problem, I choose to implement an A-Star like algorithm.  
 The difference is that the cost function is an approximate one that combines information of distances and charging time.  
 In order to balance the searching time for some large distance path, I design a search reset mechanism.   
