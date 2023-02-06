@@ -1,0 +1,114 @@
+
+=== 1. Casa_Grande_AZ Fountain_Valley_CA ===
+Finding Path Between Casa_Grande_AZ and Fountain_Valley_CA
+Reference result: Success, cost was 7.54598
+Candidate result: Success, cost was 7.54268
+Generate Path in 0.015 seconds.
+
+=== 2. San_Mateo_CA Lone_Tree_CO ===
+Finding Path Between San_Mateo_CA and Lone_Tree_CO
+Reference result: Success, cost was 25.1136
+Candidate result: Success, cost was 24.7066
+Generate Path in 0.023 seconds.
+
+=== 3. Lincoln_City_OR Auburn_AL ===
+Finding Path Between Lincoln_City_OR and Auburn_AL
+Reference result: Success, cost was 63.6569
+Candidate result: Success, cost was 62.7259
+Generate Path in 0.139 seconds.
+
+=== 4. Glen_Allen_VA Lone_Pine_CA ===
+Finding Path Between Glen_Allen_VA and Lone_Pine_CA
+Reference result: Success, cost was 59.4442
+Candidate result: Success, cost was 58.6488
+Generate Path in 0.039 seconds.
+
+=== 5. Sagamore_Beach_MA Ocala_FL ===
+Finding Path Between Sagamore_Beach_MA and Ocala_FL
+Reference result: Success, cost was 28.1398
+Candidate result: Success, cost was 27.3631
+Generate Path in 0.022 seconds.
+
+=== 6. Highland_Park_IL Maumee_OH ===
+Finding Path Between Highland_Park_IL and Maumee_OH
+Reference result: Success, cost was 3.57224
+Candidate result: Success, cost was 3.56391
+Generate Path in 0.011 seconds.
+
+=== 7. Port_Orange_FL Eureka_CA ===
+Finding Path Between Port_Orange_FL and Eureka_CA
+Reference result: Success, cost was 70.4115
+Candidate result: Success, cost was 69.5768
+Generate Path in 0.115 seconds.
+
+=== 8. Lebec_CA Temecula_CA ===
+Finding Path Between Lebec_CA and Temecula_CA
+Reference result: Success, cost was 2.20085
+Candidate result: Success, cost was 2.20085
+Generate Path in 0.009 seconds.
+
+=== 9. Madison_WI Tonopah_NV ===
+Finding Path Between Madison_WI and Tonopah_NV
+Reference result: Success, cost was 45.7222
+Candidate result: Success, cost was 45.032
+Generate Path in 0.128 seconds.
+
+=== 10. Holbrook_AZ Atascadero_CA ===
+Finding Path Between Holbrook_AZ and Atascadero_CA
+Reference result: Success, cost was 13.7741
+Candidate result: Success, cost was 14.1217
+Generate Path in 0.017 seconds.
+
+=== 11. Cranberry_PA Cabazon_CA ===
+Finding Path Between Cranberry_PA and Cabazon_CA
+Reference result: Success, cost was 55.6061
+Candidate result: Success, cost was 55.4324
+Generate Path in 0.090 seconds.
+
+=== 12. Orlando_FL West_Wendover_NV ===
+Finding Path Between Orlando_FL and West_Wendover_NV
+Reference result: Success, cost was 55.1886
+Candidate result: Success, cost was 54.1603
+Generate Path in 0.040 seconds.
+
+=== 13. Newark_DE Oklahoma_City_OK ===
+Finding Path Between Newark_DE and Oklahoma_City_OK
+Reference result: Success, cost was 35.1066
+Candidate result: Success, cost was 34.3746
+Generate Path in 0.115 seconds.
+
+=== 14. Southampton_NY Farmington_NM ===
+Finding Path Between Southampton_NY and Farmington_NM
+Reference result: Success, cost was 53.6593
+Candidate result: Success, cost was 52.9148
+Generate Path in 0.106 seconds.
+
+=== 15. Asheville_NC Bowling_Green_KY ===
+Finding Path Between Asheville_NC and Bowling_Green_KY
+Reference result: Success, cost was 4.11414
+Candidate result: Success, cost was 4.10458
+Generate Path in 0.010 seconds.
+
+=== 16. Blue_Ash_OH Twin_Falls_ID ===
+Finding Path Between Blue_Ash_OH and Twin_Falls_ID
+Reference result: Success, cost was 43.2802
+Candidate result: Success, cost was 42.4294
+Generate Path in 0.079 seconds.
+
+=== 17. Dedham_MA South_Hill_VA ===
+Finding Path Between Dedham_MA and South_Hill_VA
+Reference result: Success, cost was 12.3209
+Candidate result: Success, cost was 11.9798
+Generate Path in 0.027 seconds.
+
+=== 18. Utica_NY Angola_IN ===
+Finding Path Between Utica_NY and Angola_IN
+Reference result: Success, cost was 11.7974
+Candidate result: Success, cost was 11.765
+Generate Path in 0.012 seconds.
+
+=== 19. Pleasant_Prairie_WI Cleveland_OH ===
+Finding Path Between Pleasant_Prairie_WI and Cleveland_OH
+Reference result: Success, cost was 6.9999
+Candidate result: Success, cost was 6.99028
+Generate Path in 0.011 seconds.

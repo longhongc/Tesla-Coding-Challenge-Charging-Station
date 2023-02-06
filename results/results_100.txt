@@ -1,0 +1,592 @@
+
+=== 1. Fountain_Valley_CA South_Burlington_VT ===
+Finding Path Between Fountain_Valley_CA and South_Burlington_VT
+Reference result: Success, cost was 67.4087
+Candidate result: Success, cost was 67.5006
+Generate Path in 0.117 seconds.
+
+=== 2. Yuma_AZ Watertown_NY ===
+Finding Path Between Yuma_AZ and Watertown_NY
+Reference result: Success, cost was 60.6221
+Candidate result: Success, cost was 60.5387
+Generate Path in 0.098 seconds.
+
+=== 3. Triadelphia_WV Turkey_Lake_FL ===
+Finding Path Between Triadelphia_WV and Turkey_Lake_FL
+Reference result: Success, cost was 22.0875
+Candidate result: Success, cost was 21.616
+Generate Path in 0.012 seconds.
+
+=== 4. Edison_NJ Albany_NY ===
+Finding Path Between Edison_NJ and Albany_NY
+Reference result: Success, cost was 2.32511
+Candidate result: Success, cost was 2.32426
+Generate Path in 0.008 seconds.
+
+=== 5. Eau_Claire_WI Beatty_NV ===
+Finding Path Between Eau_Claire_WI and Beatty_NV
+Reference result: Success, cost was 40.2192
+Candidate result: Success, cost was 39.9882
+Generate Path in 0.019 seconds.
+
+=== 6. Ocala_FL Highland_Park_IL ===
+Finding Path Between Ocala_FL and Highland_Park_IL
+Reference result: Success, cost was 23.1973
+Candidate result: Success, cost was 22.9067
+Generate Path in 0.015 seconds.
+
+=== 7. Buellton_CA Plattsburgh_NY ===
+Finding Path Between Buellton_CA and Plattsburgh_NY
+Reference result: Success, cost was 68.9805
+Candidate result: Success, cost was 69.8583
+Generate Path in 0.102 seconds.
+
+=== 8. Las_Vegas_NV Tannersville_PA ===
+Finding Path Between Las_Vegas_NV and Tannersville_PA
+Reference result: Success, cost was 57.348
+Candidate result: Success, cost was 56.8143
+Generate Path in 0.042 seconds.
+
+=== 9. Eureka_CA Salina_KS ===
+Finding Path Between Eureka_CA and Salina_KS
+Reference result: Success, cost was 36.4537
+Candidate result: Success, cost was 36.0088
+Generate Path in 0.018 seconds.
+
+=== 10. Greenwich_CT Las_Vegas_NV ===
+Finding Path Between Greenwich_CT and Las_Vegas_NV
+Reference result: Success, cost was 59.7523
+Candidate result: Success, cost was 58.7265
+Generate Path in 0.052 seconds.
+
+=== 11. Sulphur_Springs_TX Shreveport_LA ===
+Finding Path Between Sulphur_Springs_TX and Shreveport_LA
+Reference result: Success, cost was 1.78326
+Candidate result: Success, cost was 1.78326
+Generate Path in 0.009 seconds.
+
+=== 12. Redondo_Beach_CA Petaluma_CA ===
+Finding Path Between Redondo_Beach_CA and Petaluma_CA
+Reference result: Success, cost was 7.87333
+Candidate result: Success, cost was 7.69858
+Generate Path in 0.013 seconds.
+
+=== 13. Sheridan_WY Mojave_CA ===
+Finding Path Between Sheridan_WY and Mojave_CA
+Reference result: Success, cost was 26.9945
+Candidate result: Success, cost was 26.6964
+Generate Path in 0.028 seconds.
+
+=== 14. Chicago_IL Macon_GA ===
+Finding Path Between Chicago_IL and Macon_GA
+Reference result: Success, cost was 15.8977
+Candidate result: Success, cost was 15.7358
+Generate Path in 0.011 seconds.
+
+=== 15. Gilroy_CA Buckeye_AZ ===
+Finding Path Between Gilroy_CA and Buckeye_AZ
+Reference result: Success, cost was 13.0347
+Candidate result: Success, cost was 12.7534
+Generate Path in 0.014 seconds.
+
+=== 16. Fremont_CA Inyokern_CA ===
+Finding Path Between Fremont_CA and Inyokern_CA
+Reference result: Success, cost was 4.94859
+Candidate result: Success, cost was 4.94099
+Generate Path in 0.013 seconds.
+
+=== 17. Reno_NV DeFuniak_Springs_FL ===
+Finding Path Between Reno_NV and DeFuniak_Springs_FL
+Reference result: Success, cost was 55.186
+Candidate result: Success, cost was 54.3636
+Generate Path in 0.107 seconds.
+
+=== 18. Gila_Bend_AZ Fountain_Valley_CA ===
+Finding Path Between Gila_Bend_AZ and Fountain_Valley_CA
+Reference result: Success, cost was 5.92011
+Candidate result: Success, cost was 6.29662
+Generate Path in 0.013 seconds.
+
+=== 19. Dublin_CA Glenwood_Springs_CO ===
+Finding Path Between Dublin_CA and Glenwood_Springs_CO
+Reference result: Success, cost was 21.0528
+Candidate result: Success, cost was 20.613
+Generate Path in 0.018 seconds.
+
+=== 20. Oklahoma_City_OK Denver_CO ===
+Finding Path Between Oklahoma_City_OK and Denver_CO
+Reference result: Success, cost was 13.25
+Candidate result: Success, cost was 13.1233
+Generate Path in 0.011 seconds.
+
+=== 21. East_Brunswick_NJ Sagamore_Beach_MA ===
+Finding Path Between East_Brunswick_NJ and Sagamore_Beach_MA
+Reference result: Success, cost was 3.69687
+Candidate result: Success, cost was 3.78983
+Generate Path in 0.011 seconds.
+
+=== 22. Southampton_NY Tucumcari_NM ===
+Finding Path Between Southampton_NY and Tucumcari_NM
+Reference result: Success, cost was 47.0933
+Candidate result: Success, cost was 46.4218
+Generate Path in 0.087 seconds.
+
+=== 23. Egg_Harbor_Township_NJ Liverpool_NY ===
+Finding Path Between Egg_Harbor_Township_NJ and Liverpool_NY
+Reference result: Success, cost was 4.86582
+Candidate result: Success, cost was 4.77735
+Generate Path in 0.013 seconds.
+
+=== 24. Aurora_IL Duluth_MN ===
+Finding Path Between Aurora_IL and Duluth_MN
+Reference result: Success, cost was 8.48861
+Candidate result: Success, cost was 8.45632
+Generate Path in 0.010 seconds.
+
+=== 25. Lima_OH Blanding_UT ===
+Finding Path Between Lima_OH and Blanding_UT
+Reference result: Success, cost was 36.918
+Candidate result: Success, cost was 36.2503
+Generate Path in 0.027 seconds.
+
+=== 26. Auburn_AL Warsaw_NC ===
+Finding Path Between Auburn_AL and Warsaw_NC
+Reference result: Success, cost was 9.50398
+Candidate result: Success, cost was 9.49606
+Generate Path in 0.011 seconds.
+
+=== 27. Cranbury_NJ Hamilton_Township_NJ ===
+Finding Path Between Cranbury_NJ and Hamilton_Township_NJ
+Reference result: Success, cost was 0.183016
+Candidate result: Success, cost was 0.183016
+Generate Path in 0.010 seconds.
+
+=== 28. Brattleboro_VT Tifton_GA ===
+Finding Path Between Brattleboro_VT and Tifton_GA
+Reference result: Success, cost was 24.9801
+Candidate result: Success, cost was 24.3991
+Generate Path in 0.038 seconds.
+
+=== 29. Baton_Rouge_LA Bethesda_MD ===
+Finding Path Between Baton_Rouge_LA and Bethesda_MD
+Reference result: Success, cost was 28.1427
+Candidate result: Success, cost was 27.6974
+Generate Path in 0.018 seconds.
+
+=== 30. Sagamore_Beach_MA Egg_Harbor_Township_NJ ===
+Finding Path Between Sagamore_Beach_MA and Egg_Harbor_Township_NJ
+Reference result: Success, cost was 5.22009
+Candidate result: Success, cost was 5.17951
+Generate Path in 0.018 seconds.
+
+=== 31. Mojave_CA Lake_Charles_LA ===
+Finding Path Between Mojave_CA and Lake_Charles_LA
+Reference result: Success, cost was 39.6024
+Candidate result: Success, cost was 39.4609
+Generate Path in 0.072 seconds.
+
+=== 32. Coalinga_CA Coeur_d'Alene_ID ===
+Finding Path Between Coalinga_CA and Coeur_d'Alene_ID
+Reference result: Success, cost was 21.7208
+Candidate result: Success, cost was 21.7104
+Generate Path in 0.065 seconds.
+
+=== 33. Farmington_NM Tooele_UT ===
+Finding Path Between Farmington_NM and Tooele_UT
+Reference result: Success, cost was 6.91817
+Candidate result: Success, cost was 6.91476
+Generate Path in 0.010 seconds.
+
+=== 34. Decatur_GA Binghamton_NY ===
+Finding Path Between Decatur_GA and Binghamton_NY
+Reference result: Success, cost was 19.0676
+Candidate result: Success, cost was 18.8293
+Generate Path in 0.016 seconds.
+
+=== 35. Plantation_FL Albuquerque_NM ===
+Finding Path Between Plantation_FL and Albuquerque_NM
+Reference result: Success, cost was 45.8525
+Candidate result: Success, cost was 44.847
+Generate Path in 0.024 seconds.
+
+=== 36. Matthews_NC Green_River_UT ===
+Finding Path Between Matthews_NC and Green_River_UT
+Reference result: Success, cost was 42.9066
+Candidate result: Success, cost was 41.8422
+Generate Path in 0.015 seconds.
+
+=== 37. Triadelphia_WV Normal_IL ===
+Finding Path Between Triadelphia_WV and Normal_IL
+Reference result: Success, cost was 9.66121
+Candidate result: Success, cost was 9.52384
+Generate Path in 0.012 seconds.
+
+=== 38. Corning_CA Gillette_WY ===
+Finding Path Between Corning_CA and Gillette_WY
+Reference result: Success, cost was 26.0356
+Candidate result: Success, cost was 25.5932
+Generate Path in 0.090 seconds.
+
+=== 39. Ardmore_OK Ellensburg_WA ===
+Finding Path Between Ardmore_OK and Ellensburg_WA
+Reference result: Success, cost was 39.9493
+Candidate result: Success, cost was 39.7367
+Generate Path in 0.019 seconds.
+
+=== 40. Harrisburg_PA Baton_Rouge_LA ===
+Finding Path Between Harrisburg_PA and Baton_Rouge_LA
+Reference result: Success, cost was 30.8392
+Candidate result: Success, cost was 30.4244
+Generate Path in 0.089 seconds.
+
+=== 41. Barstow_CA Colorado_Springs_CO ===
+Finding Path Between Barstow_CA and Colorado_Springs_CO
+Reference result: Success, cost was 18.7255
+Candidate result: Success, cost was 18.4445
+Generate Path in 0.014 seconds.
+
+=== 42. Denton_TX Sulphur_Springs_TX ===
+Finding Path Between Denton_TX and Sulphur_Springs_TX
+Reference result: Success, cost was 1.38591
+Candidate result: Success, cost was 1.38591
+Generate Path in 0.009 seconds.
+
+=== 43. Nephi_UT Indianapolis_IN ===
+Finding Path Between Nephi_UT and Indianapolis_IN
+Reference result: Success, cost was 34.8688
+Candidate result: Success, cost was 35.0473
+Generate Path in 0.015 seconds.
+
+=== 44. Milford_CT Orlando_FL ===
+Finding Path Between Milford_CT and Orlando_FL
+Reference result: Success, cost was 25.6699
+Candidate result: Success, cost was 25.1733
+Generate Path in 0.014 seconds.
+
+=== 45. Superior_MT Centralia_WA ===
+Finding Path Between Superior_MT and Centralia_WA
+Reference result: Success, cost was 8.11205
+Candidate result: Success, cost was 8.10834
+Generate Path in 0.010 seconds.
+
+=== 46. Denver_CO Albuquerque_NM ===
+Finding Path Between Denver_CO and Albuquerque_NM
+Reference result: Success, cost was 7.82494
+Candidate result: Success, cost was 7.59989
+Generate Path in 0.010 seconds.
+
+=== 47. Madison_WI Fountain_Valley_CA ===
+Finding Path Between Madison_WI and Fountain_Valley_CA
+Reference result: Success, cost was 48.3688
+Candidate result: Success, cost was 47.4951
+Generate Path in 0.022 seconds.
+
+=== 48. Bend_OR Mountville_SC ===
+Finding Path Between Bend_OR and Mountville_SC
+Reference result: Success, cost was 60.2837
+Candidate result: Success, cost was 59.7282
+Generate Path in 0.114 seconds.
+
+=== 49. Eau_Claire_WI Lee_MA ===
+Finding Path Between Eau_Claire_WI and Lee_MA
+Reference result: Success, cost was 24.9391
+Candidate result: Success, cost was 24.6915
+Generate Path in 0.057 seconds.
+
+=== 50. Fountain_Valley_CA Watertown_NY ===
+Finding Path Between Fountain_Valley_CA and Watertown_NY
+Reference result: Success, cost was 63.8765
+Candidate result: Success, cost was 63.9022
+Generate Path in 0.108 seconds.
+
+=== 51. Warsaw_NC Lake_Charles_LA ===
+Finding Path Between Warsaw_NC and Lake_Charles_LA
+Reference result: Success, cost was 25.1617
+Candidate result: Success, cost was 24.059
+Generate Path in 0.034 seconds.
+
+=== 52. Cabazon_CA West_Springfield_MA ===
+Finding Path Between Cabazon_CA and West_Springfield_MA
+Reference result: Success, cost was 65.8509
+Candidate result: Success, cost was 67.2529
+Generate Path in 0.117 seconds.
+
+=== 53. St._Joseph_MI Fresno_CA ===
+Finding Path Between St._Joseph_MI and Fresno_CA
+Reference result: Success, cost was 50.114
+Candidate result: Success, cost was 51.7786
+Generate Path in 0.098 seconds.
+
+=== 54. Turkey_Lake_FL Woodburn_OR ===
+Finding Path Between Turkey_Lake_FL and Woodburn_OR
+Reference result: Success, cost was 70.2375
+Candidate result: Success, cost was 69.8164
+Generate Path in 0.091 seconds.
+
+=== 55. Highland_Park_IL  ===
+Error: path must have at least start and end charger names
+Generate Path in 0.009 seconds.
+
+=== 56. Tremonton_UT East_Greenwich_RI ===
+Finding Path Between Tremonton_UT and East_Greenwich_RI
+Reference result: Success, cost was 58.1902
+Candidate result: Success, cost was 57.4761
+Generate Path in 0.027 seconds.
+
+=== 57. Baton_Rouge_LA Fountain_Valley_CA ===
+Finding Path Between Baton_Rouge_LA and Fountain_Valley_CA
+Reference result: Success, cost was 40.8227
+Candidate result: Success, cost was 40.4539
+Generate Path in 0.023 seconds.
+
+=== 58. Yucca_AZ Santa_Rosa_NM ===
+Finding Path Between Yucca_AZ and Santa_Rosa_NM
+Reference result: Success, cost was 11.7509
+Candidate result: Success, cost was 11.7429
+Generate Path in 0.013 seconds.
+
+=== 59. Turkey_Lake_FL Temecula_CA ===
+Finding Path Between Turkey_Lake_FL and Temecula_CA
+Reference result: Success, cost was 57.0101
+Candidate result: Success, cost was 55.7673
+Generate Path in 0.029 seconds.
+
+=== 60. Richfield_UT Queensbury_NY ===
+Finding Path Between Richfield_UT and Queensbury_NY
+Reference result: Success, cost was 53.7117
+Candidate result: Success, cost was 53.1607
+Generate Path in 0.041 seconds.
+
+=== 61. Flagstaff_AZ Grants_Pass_OR ===
+Finding Path Between Flagstaff_AZ and Grants_Pass_OR
+Reference result: Success, cost was 21.0362
+Candidate result: Success, cost was 20.8025
+Generate Path in 0.016 seconds.
+
+=== 62. Lima_OH Macon_GA ===
+Finding Path Between Lima_OH and Macon_GA
+Reference result: Success, cost was 12.7449
+Candidate result: Success, cost was 12.2734
+Generate Path in 0.010 seconds.
+
+=== 63. Reno_NV Knoxville_TN ===
+Finding Path Between Reno_NV and Knoxville_TN
+Reference result: Success, cost was 52.8731
+Candidate result: Success, cost was 54.0274
+Generate Path in 0.114 seconds.
+
+=== 64. Dublin_CA Mojave_CA ===
+Finding Path Between Dublin_CA and Mojave_CA
+Reference result: Success, cost was 5.07052
+Candidate result: Success, cost was 5.0615
+Generate Path in 0.011 seconds.
+
+=== 65. Bellmead_TX Hooksett_NH ===
+Finding Path Between Bellmead_TX and Hooksett_NH
+Reference result: Success, cost was 48.0647
+Candidate result: Success, cost was 47.8306
+Generate Path in 0.049 seconds.
+
+=== 66. Mammoth_Lakes_CA Columbia_MO ===
+Finding Path Between Mammoth_Lakes_CA and Columbia_MO
+Reference result: Success, cost was 37.207
+Candidate result: Success, cost was 36.7221
+Generate Path in 0.012 seconds.
+
+=== 67. Dublin_CA Butte_MT ===
+Finding Path Between Dublin_CA and Butte_MT
+Reference result: Success, cost was 20.4101
+Candidate result: Success, cost was 19.9833
+Generate Path in 0.081 seconds.
+
+=== 68. Coalinga_CA Council_Bluffs_IA ===
+Finding Path Between Coalinga_CA and Council_Bluffs_IA
+Reference result: Success, cost was 35.9406
+Candidate result: Success, cost was 35.5666
+Generate Path in 0.097 seconds.
+
+=== 69. Burbank_CA Macon_GA ===
+Finding Path Between Burbank_CA and Macon_GA
+Reference result: Success, cost was 56.4883
+Candidate result: Success, cost was 56.9133
+Generate Path in 0.142 seconds.
+
+=== 70. Grove_City_OH Paramus_NJ ===
+Finding Path Between Grove_City_OH and Paramus_NJ
+Reference result: Success, cost was 10.5739
+Candidate result: Success, cost was 10.5369
+Generate Path in 0.017 seconds.
+
+=== 71. Charlotte_NC Dallas_TX ===
+Finding Path Between Charlotte_NC and Dallas_TX
+Reference result: Success, cost was 28.9969
+Candidate result: Success, cost was 28.4665
+Generate Path in 0.113 seconds.
+
+=== 72. Normal_IL Watertown_NY ===
+Finding Path Between Normal_IL and Watertown_NY
+Reference result: Success, cost was 17.0179
+Candidate result: Success, cost was 17.0204
+Generate Path in 0.014 seconds.
+
+=== 73. Rocklin_CA Reno_NV ===
+Finding Path Between Rocklin_CA and Reno_NV
+Reference result: Success, cost was 1.37184
+Candidate result: Success, cost was 1.36998
+Generate Path in 0.009 seconds.
+
+=== 74. Gardnerville_NV Columbus_TX ===
+Finding Path Between Gardnerville_NV and Columbus_TX
+Reference result: Success, cost was 41.6718
+Candidate result: Success, cost was 41.3177
+Generate Path in 0.094 seconds.
+
+=== 75. Tinton_Falls_NJ Chicago_IL ===
+Finding Path Between Tinton_Falls_NJ and Chicago_IL
+Reference result: Success, cost was 17.1357
+Candidate result: Success, cost was 16.8145
+Generate Path in 0.015 seconds.
+
+=== 76. Newburgh_NY Edison_NJ ===
+Finding Path Between Newburgh_NY and Edison_NJ
+Reference result: Success, cost was 1.03062
+Candidate result: Success, cost was 1.03062
+Generate Path in 0.009 seconds.
+
+=== 77. Harrisburg_PA Bowling_Green_KY ===
+Finding Path Between Harrisburg_PA and Bowling_Green_KY
+Reference result: Success, cost was 13.7406
+Candidate result: Success, cost was 13.7026
+Generate Path in 0.012 seconds.
+
+=== 78. Tifton_GA Lovelock_NV ===
+Finding Path Between Tifton_GA and Lovelock_NV
+Reference result: Success, cost was 57.4036
+Candidate result: Success, cost was 55.9267
+Generate Path in 0.063 seconds.
+
+=== 79. Lebec_CA Savannah_GA ===
+Finding Path Between Lebec_CA and Savannah_GA
+Reference result: Success, cost was 58.3881
+Candidate result: Success, cost was 58.3993
+Generate Path in 0.106 seconds.
+
+=== 80. Queens_NY San_Marcos_TX ===
+Finding Path Between Queens_NY and San_Marcos_TX
+Reference result: Success, cost was 44.8615
+Candidate result: Success, cost was 44.6267
+Generate Path in 0.242 seconds.
+
+=== 81. Flagstaff_AZ Santa_Rosa_NM ===
+Finding Path Between Flagstaff_AZ and Santa_Rosa_NM
+Reference result: Success, cost was 8.06268
+Candidate result: Success, cost was 8.05555
+Generate Path in 0.012 seconds.
+
+=== 82. Needles_CA Asheville_NC ===
+Finding Path Between Needles_CA and Asheville_NC
+Reference result: Success, cost was 50.1124
+Candidate result: Success, cost was 50.138
+Generate Path in 0.129 seconds.
+
+=== 83. Gardnerville_NV Cleveland_OH ===
+Finding Path Between Gardnerville_NV and Cleveland_OH
+Reference result: Success, cost was 55.7402
+Candidate result: Success, cost was 54.7624
+Generate Path in 0.109 seconds.
+
+=== 84. Milford_CT Brentwood_TN ===
+Finding Path Between Milford_CT and Brentwood_TN
+Reference result: Success, cost was 20.9664
+Candidate result: Success, cost was 20.6719
+Generate Path in 0.022 seconds.
+
+=== 85. Tannersville_PA Blanding_UT ===
+Finding Path Between Tannersville_PA and Blanding_UT
+Reference result: Success, cost was 49.4449
+Candidate result: Success, cost was 50.5805
+Generate Path in 0.083 seconds.
+
+=== 86. Cleveland_OH Ardmore_OK ===
+Finding Path Between Cleveland_OH and Ardmore_OK
+Reference result: Success, cost was 29.2149
+Candidate result: Success, cost was 28.9395
+Generate Path in 0.140 seconds.
+
+=== 87. Paramus_NJ Brandon_FL ===
+Finding Path Between Paramus_NJ and Brandon_FL
+Reference result: Success, cost was 25.8912
+Candidate result: Success, cost was 25.3253
+Generate Path in 0.015 seconds.
+
+=== 88. Gilroy_CA Ocala_FL ===
+Finding Path Between Gilroy_CA and Ocala_FL
+Reference result: Success, cost was 61.5144
+Candidate result: Success, cost was 61.0126
+Generate Path in 0.048 seconds.
+
+=== 89. Atlanta_GA Southampton_NY ===
+Finding Path Between Atlanta_GA and Southampton_NY
+Reference result: Success, cost was 20.4222
+Candidate result: Success, cost was 20.1302
+Generate Path in 0.027 seconds.
+
+=== 90. Triadelphia_WV Hays_KS ===
+Finding Path Between Triadelphia_WV and Hays_KS
+Reference result: Success, cost was 25.4882
+Candidate result: Success, cost was 25.092
+Generate Path in 0.022 seconds.
+
+=== 91. Cabazon_CA Moab_UT ===
+Finding Path Between Cabazon_CA and Moab_UT
+Reference result: Success, cost was 12.3486
+Candidate result: Success, cost was 12.2843
+Generate Path in 0.012 seconds.
+
+=== 92. St._Augustine_FL San_Juan_Capistrano_CA ===
+Finding Path Between St._Augustine_FL and San_Juan_Capistrano_CA
+Reference result: Success, cost was 56.6155
+Candidate result: Success, cost was 55.4215
+Generate Path in 0.027 seconds.
+
+=== 93. Macedonia_OH Louisville_KY ===
+Finding Path Between Macedonia_OH and Louisville_KY
+Reference result: Success, cost was 5.88185
+Candidate result: Success, cost was 5.87279
+Generate Path in 0.011 seconds.
+
+=== 94. Madison_WI St._George_UT ===
+Finding Path Between Madison_WI and St._George_UT
+Reference result: Success, cost was 39.1676
+Candidate result: Success, cost was 38.5787
+Generate Path in 0.019 seconds.
+
+=== 95. Chicago_IL Cabazon_CA ===
+Finding Path Between Chicago_IL and Cabazon_CA
+Reference result: Success, cost was 47.3544
+Candidate result: Success, cost was 46.3408
+Generate Path in 0.082 seconds.
+
+=== 96. Seabrook_NH Edison_NJ ===
+Finding Path Between Seabrook_NH and Edison_NJ
+Reference result: Success, cost was 4.35226
+Candidate result: Success, cost was 4.14843
+Generate Path in 0.015 seconds.
+
+=== 97. Mitchell_SD St._George_UT ===
+Finding Path Between Mitchell_SD and St._George_UT
+Reference result: Success, cost was 25.6991
+Candidate result: Success, cost was 25.5912
+Generate Path in 0.012 seconds.
+
+=== 98. Rocklin_CA Binghamton_NY ===
+Finding Path Between Rocklin_CA and Binghamton_NY
+Reference result: Success, cost was 65.5228
+Candidate result: Success, cost was 65.8342
+Generate Path in 0.108 seconds.
+
+=== 99. Blanding_UT West_Yellowstone_MT ===
+Finding Path Between Blanding_UT and West_Yellowstone_MT
+Reference result: Success, cost was 11.5851
+Candidate result: Success, cost was 11.5724
+Generate Path in 0.011 seconds.
